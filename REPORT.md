@@ -5,7 +5,6 @@ The repository under review was located at https://github.com/HalbornSecurity/CT
 | 1    | Underflow Leads to Excessive User Credit Mint          | Critical |
 | 2    | Missing Verification of Game Config Linkage in LevelUp | Critical |
 | 3    | Extra Credit Deduction at Max-Level                    | High     |
-| 4    | Missing asserstions accross                            | Info     |
 
 <hr/>
 
